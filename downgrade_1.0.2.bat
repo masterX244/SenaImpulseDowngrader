@@ -1,0 +1,1 @@
+wget -q --timeout=3600 --post-file payload-0102.dat --no-check-certificate -o - -O - https://10.42.0.1/cgi-bin/query.cgi
