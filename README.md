@@ -6,7 +6,7 @@ and then unzip into any folder.
 
 On Linux or MAC you need Wget installed.
 
-Run the batch or shell file for your target version while being connected to the Configuration Hotspot of the Helmet. Otherwise you need to modify the target IP address in the command.
+Run the batch or shell file for your target version after reconfiguring the IP in the matching script file.
 
 After that reconnect the charging cable to reload everything. After Downgrading do a WiFi reset by using the bottommost button to remove the downgrade workaround remains and don't connect it to any WiFi
 
